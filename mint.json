@@ -42,8 +42,8 @@
     {
       "group": "Essentials",
       "pages": [
-        "essentials/Narrative",
-        "essentials/Capture Strategy"
+        "essentials/narrative",
+        "essentials/capture-strategy"
       ]
     }
   ],
